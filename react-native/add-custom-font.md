@@ -20,6 +20,14 @@ module.exports = {
 
 #### Link the assets to the project
 
+react-native < 0.69
+
 ```
 react-native link
+```
+
+react-native >= 0.69
+
+```
+react-native-asset
 ```
