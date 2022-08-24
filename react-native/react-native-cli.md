@@ -1,4 +1,4 @@
-## Useful `react-native-cli` script
+## Usefull `react-native-cli` script
 
 #### auto link assets
 
